@@ -18,7 +18,7 @@ const DailyPlan = () => {
                 1 Movement
               </div>
             </div>
-            <div className="w-9 h-9 bg-foresttext-forest-green outline outline-2 outline-offset-[-1px] outline-lightbg-light-green" />
+            <div className="w-9 h-9 rounded-full border-[3px] border-forest-green text-forest-green" />
           </div>
           <div className="self-stretch p-6 bg-light-green rounded-lg inline-flex justify-between items-center">
             <div className="flex justify-start items-center gap-4">
@@ -27,7 +27,7 @@ const DailyPlan = () => {
                 1 Reminder
               </div>
             </div>
-            <div className="w-9 h-9 rounded-full border-[3px] border-foresttext-forest-green" />
+            <div className="w-9 h-9 rounded-full border-[3px] border-forest-green text-forest-green" />
           </div>
           <div className="self-stretch p-6 bg-light-green rounded-lg inline-flex justify-between items-center">
             <div className="flex justify-start items-center gap-4">
@@ -36,7 +36,7 @@ const DailyPlan = () => {
                 1 Check In
               </div>
             </div>
-            <div className="w-9 h-9 bg-foresttext-forest-green outline outline-2 outline-offset-[-1px] outline-lightbg-light-green" />
+            <div className="w-9 h-9 rounded-full border-[3px] border-forest-green text-forest-green" />
           </div>
         </div>
       </div>
